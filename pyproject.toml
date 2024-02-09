@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "mivolo"
+version = "0.1.0"
+description = "..."
+authors = ["WildChlamydia x"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+ultralytics = "8.1.11"
+timm = "0.8.13.dev0"
