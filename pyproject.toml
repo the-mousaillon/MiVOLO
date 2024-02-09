@@ -4,6 +4,11 @@ version = "0.1.0"
 description = "..."
 authors = ["WildChlamydia x"]
 
+
+[tool.setuptools]
+py-modules = []
+
+
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
 ultralytics = "8.1.11"
