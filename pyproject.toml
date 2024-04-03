@@ -7,7 +7,7 @@ authors = ["WildChlamydia x"]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
-ultralytics = "8.1.11"
+ultralytics = "8.1.42"
 timm = "0.8.13.dev0"
 
 [tool.poetry.dev-dependencies]
